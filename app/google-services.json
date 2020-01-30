@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30008056452",
+    "firebase_url": "https://fir-ml-apps.firebaseio.com",
+    "project_id": "fir-ml-apps",
+    "storage_bucket": "fir-ml-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30008056452:android:b9ec26153467a1b919c0d1",
+        "android_client_info": {
+          "package_name": "com.developndesign.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30008056452-4nsaunv9shtruj775kefs1nvf0nt79tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEveeBNRuk_IONz4W9oYfWy7zMKKA9mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30008056452-4nsaunv9shtruj775kefs1nvf0nt79tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
